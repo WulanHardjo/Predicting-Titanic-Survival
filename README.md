@@ -1,2 +1,2 @@
 # Wulan-Yolanda-Safique-Hardjo
-This project delves into the Titanic disaster, using machine learning to predict passenger survival by analyzing key factors. By comparing various models, it seeks to uncover the most accurate predictor of survival, while offering deep insights into the human dynamics that shaped the outcome.
+This project explores the infamous Titanic disaster through the lens of machine learning, aiming to predict passenger survival by analyzing critical factors. By applying and comparing multiple models, it not only identifies the most accurate predictor of survival but also reveals profound insights into the societal and personal dynamics that influenced who lived and who perished.
